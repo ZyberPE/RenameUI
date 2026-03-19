@@ -1,0 +1,22 @@
+settings:
+  xp-cost: 30
+
+messages:
+  title: "Rename Menu"
+  content: "Select an item and enter a new name"
+
+  dropdown: "Select Item"
+  input: "Enter new name (use § for colors)"
+
+  rename-button: "Rename"
+  close-button: "Close"
+
+  confirm-title: "Confirm Rename"
+  confirm-content: "Rename this item to:\n{new_name}?"
+  confirm-button: "Confirm"
+  cancel-button: "Cancel"
+
+  success: "§aItem renamed successfully!"
+  not-enough-xp: "§cYou need {xp} levels!"
+  no-permission: "§cYou don’t have permission!"
+  invalid-item: "§cInvalid item selected!"
